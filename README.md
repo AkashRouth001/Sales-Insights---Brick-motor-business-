@@ -1,22 +1,17 @@
+# 🧱 Sales Insights Dashboard - Brick & Mortar Business
 
-# Sales Insights - Brick & Motor Business 
+Unlock powerful sales insights with this **Power BI dashboard** designed for AtliQ, a hardware goods business. This interactive tool brings sales data to life, revealing key trends and patterns that help business owners, sales teams, and decision-makers pinpoint opportunities for growth. With actionable insights, the dashboard aims to boost revenue by a projected **7% in the next quarter**, guiding smarter business moves with data at the forefront.
 
-This project involves designing a Power BI dashboard for AtliQ, a hardware goods business, to analyze and visualize sales trends. The dashboard provides clear insights into sales patterns, helping users easily interpret the data and make informed business decisions. It is designed for business owners, sales teams, and decision-makers looking to increase revenue by identifying key trends and areas of improvement. The actionable insights from the dashboard have the potential to boost revenue by at least 7% in the next quarter.
+## 🔍 Appendix: SQL Database Dump
 
-## Appendix
+To power this dashboard, an SQL database is provided in the `data_dump.sql` file. Here’s how to get started:
 
-SQL Database Dump:
+1. **Download** the `data_dump.sql` file from this repository.
+2. **Import** it into your preferred SQL environment to access the database and begin exploring the data!
 
-The SQL database dump for this project is available in the data_dump.sql  file. To use the database
+## 📊 Power BI Dashboard
 
-Download the data_dump.sql file from the repository.
+See it in action! This snapshot gives you a glimpse of the comprehensive sales analysis at your fingertips.
 
-
-
-## Power Bi dashboard
-
-![App Screenshot](https://github.com/AkashRouth001/Sales-Insights---Brick-motor-business-/blob/d43437934e23ce690cdf0f304204fd871a6b0942/bi%20dashbord/Screenshot%202024-07-07%20201741.png)
-
-
-
+![Sales Insights Dashboard Screenshot](https://github.com/AkashRouth001/Sales-Insights---Brick-motor-business-/blob/d43437934e23ce690cdf0f304204fd871a6b0942/bi%20dashbord/Screenshot%202024-07-07%20201741.png)
 
